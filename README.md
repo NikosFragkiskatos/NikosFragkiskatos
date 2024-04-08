@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikosFragkiskatos
 - 👀 I’m interested in the practical subjects, like the IIOT (Industrial Internet of Things), MES (Manufacturing Execution Systems), Systems and Data Engineering. Also, I am interested in data structures and algorithms and mathematics.
-- 🌱 I’m currently learning Data Engineering.
+- 🌱 I’m currently constructing a sample MES system using Airflow and Python Operators.
 - 💞️ I’m looking to collaborate on any of the aforementioned subjects.
 - 📫 How to reach me: nikosfragkiskatos@gmail.com
 

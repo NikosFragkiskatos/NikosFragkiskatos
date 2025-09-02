@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikosFragkiskatos
-- 👀 I’m interested in the practical subjects, like the IIOT (Industrial Internet of Things), MES (Manufacturing Execution Systems), Systems and Data Engineering. Also, I am interested in data structures and algorithms and mathematics.
-- 🌱 I’m currently constructing a sample MES system using Airflow and Python Operators.
+- 👀 I’m interested in the practical subjects, like IIoT/MES, Data Engineering, and Generative AI.
+- 🌱 I’m currently constructing a sample MES system using the Ignition platform, with goal to build a custom troubleshooting tool with prompt interface.
 - 💞️ I’m looking to collaborate on any of the aforementioned subjects.
 - 📫 How to reach me: nikosfragkiskatos@gmail.com
 
